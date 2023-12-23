@@ -1,0 +1,12 @@
+.filters {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center;
+    
+  }
+  
+  .li {
+    margin: 0 5px;
+  }
+  
